@@ -2,6 +2,10 @@ name: "Install PHAR files"
 
 description: "Installation and verification of PHAR distributed PHP applications"
 
+branding:
+  color: "purple"
+  icon: "anchor"
+
 inputs:
   home:
     description: "Home path of PHIVE"
